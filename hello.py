@@ -1,1 +1,1 @@
-print('土日でわかるPython教室')
+print('土日でわかるPythonプログラミング教室')
